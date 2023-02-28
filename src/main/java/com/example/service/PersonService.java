@@ -71,12 +71,6 @@ public class PersonService {
 		
 		
 		
-		p = new Person();
-		p.setId("8");
-		p.setAge(24);
-		p.setFirstName("iot");
-		p.setLastName("Ramzi");
-		persons.add(p);
 		
 		
 		
