@@ -70,6 +70,16 @@ public class PersonService {
 		persons.add(p);
 		
 		
+		
+		p = new Person();
+		p.setId("8");
+		p.setAge(24);
+		p.setFirstName("iot");
+		p.setLastName("Ramzi");
+		persons.add(p);
+		
+		
+		
 	
 	}
 	public Person getPerson(String id) {
